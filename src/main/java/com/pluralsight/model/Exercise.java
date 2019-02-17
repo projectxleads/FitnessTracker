@@ -7,7 +7,7 @@ public class Exercise {
 		return minutes;
 	}
 	
-	public void setMinutes(int minute) {
+	public void setMinutes(int minutes) {
 		this.minutes = minutes;
 	}
 }
